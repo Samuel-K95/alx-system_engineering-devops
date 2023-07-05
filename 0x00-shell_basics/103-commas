@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -m -h -F | sed '/[*]$/ s///
+ls -a -m -h -F
